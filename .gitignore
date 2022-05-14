@@ -3,3 +3,4 @@ cache
 artifacts
 secrets.json
 .vscode
+*.bat
